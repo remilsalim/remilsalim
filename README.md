@@ -1,7 +1,5 @@
 <h1 align="center">നമസ്കാരം</h1>
 
-<h3 align="center">Welcome</h3>
-
 ### 📈 GitHub Stats
 
 <p align="center">
