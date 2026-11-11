@@ -7,7 +7,7 @@
 Computer Science postgraduate with an interest in software development, artificial intelligence, and machine learning. I enjoy building applications, exploring emerging technologies, and solving real-world problems through code.
 
 - Interested in **AI/ML, Deep Learning, and Graph Neural Networks**
-- Experienced in **Flutter application development and frontend engineering**
+- Experienced in **Flutter application development and Fullstack development**
 - Currently exploring **Explainable AI and heterogeneous graph learning**
 - Always interested in learning and building new things.
 
