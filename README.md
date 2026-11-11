@@ -24,7 +24,9 @@ Computer Science postgraduate with experience in full-stack development, fronten
 **Frameworks & Libraries**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,numpy,pandas,tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,tensorflow,pytorch,opencv" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 </p>
 
@@ -40,6 +42,10 @@ Computer Science postgraduate with experience in full-stack development, fronten
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,vite" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" />
 </p>
+
+**Areas of Interest**
+
+Graph Neural Networks | Computer Vision | Explainable AI | Feature Engineering | Large Language Models
 
 **Areas of Interest**
 
