@@ -1,13 +1,13 @@
-# നമസ്കാരം! I'm Remil Salim
+# നമസ്കാരം | Hello | Hola | Bonjour | नमस्ते | مرحباً
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Software+Developer;AI+%26+Machine+Learning+Enthusiast;Exploring+Deep+Learning+%26+Graph+Neural+Networks" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Software+Developer;AI+%26+Machine+Learning+Enthusiast;Exploring+Deep+Learning+%26+Graph+Neural+Networks" />
 </p>
 
 Computer Science postgraduate with an interest in software development, artificial intelligence, and machine learning. I enjoy building applications, exploring emerging technologies, and solving real-world problems through code.
 
 - Interested in **AI/ML, Deep Learning, and Graph Neural Networks**
-- Experienced in **Flutter application development and Fullstack development**
+- Experienced in **Flutter application development and Full-Stack Development**
 - Currently exploring **Explainable AI and heterogeneous graph learning**
 - Always interested in learning and building new things.
 
@@ -62,14 +62,13 @@ An interactive visualization of sorting algorithms and their execution processes
 
 ---
 
-### GitHub Statistics
+### Portfolio
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=remilsalim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=remilsalim&layout=compact&langs_count=8&theme=tokyonight" />
+  <a href="https://portfolio-one-ivory-26.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
-
-
 
 ---
 
