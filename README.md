@@ -37,7 +37,7 @@ Computer Science postgraduate with experience in full-stack development, fronten
 **Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,firebase,vercel,vite" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,vite" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" />
 </p>
 
