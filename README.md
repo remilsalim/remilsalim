@@ -45,11 +45,7 @@ Computer Science postgraduate with experience in full-stack development, fronten
 
 **Areas of Interest**
 
-Graph Neural Networks | Computer Vision | Explainable AI | Feature Engineering | Large Language Models
-
-**Areas of Interest**
-
-Graph Neural Networks | Computer Vision | Feature Engineering | Data Preprocessing | LLM Integration
+Graph Neural Networks | Explainable AI | Computer Vision | Feature Engineering | Data Preprocessing | LLM Integration
 
 ---
 
