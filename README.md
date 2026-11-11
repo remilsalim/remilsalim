@@ -1,5 +1,11 @@
-# നമസ്കാരം | Hello | Hola | Bonjour | नमस्ते | مرحباً
-I'm Remil Salim
+<h1 align="center">
+  നമസ്കാരം | Hello | Hola | Bonjour | नमस्ते | مرحباً
+</h1>
+
+<h1 align="center">
+  <span style="color: white;">Remil Salim K P</span>
+</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Exploring+Graph+Neural+Networks" />
 </p>
