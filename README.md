@@ -1,15 +1,15 @@
 # നമസ്കാരം | Hello | Hola | Bonjour | नमस्ते | مرحباً
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Software+Developer;AI+%26+Machine+Learning+Enthusiast;Exploring+Deep+Learning+%26+Graph+Neural+Networks" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Exploring+Graph+Neural+Networks" />
 </p>
 
-Computer Science postgraduate with an interest in software development, artificial intelligence, and machine learning. I enjoy building applications, exploring emerging technologies, and solving real-world problems through code.
+Computer Science postgraduate with experience in full-stack development, frontend engineering, and AI/ML. Interested in building scalable applications, developing intelligent systems, and applying technology to solve real-world problems.
 
 - Interested in **AI/ML, Deep Learning, and Graph Neural Networks**
-- Experienced in **Flutter application development and Full-Stack Development**
-- Currently exploring **Explainable AI and heterogeneous graph learning**
-- Always interested in learning and building new things.
+- Experienced in **Flutter, React, and Full-Stack Development**
+- Exploring **Explainable AI, Computer Vision, and Heterogeneous Graph Learning**
+- Experience in **REST API Integration, Requirement Analysis, and Technical Documentation**
 
 ---
 
@@ -18,23 +18,32 @@ Computer Science postgraduate with an interest in software development, artifici
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,dart,js,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,dart,js,html,css" />
 </p>
 
 **Frameworks & Libraries**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,tensorflow,pytorch,opencv" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,numpy,pandas,tensorflow,pytorch,opencv" />
+  <img src="https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 **Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,firebase" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,firebase,vercel,vite" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" />
 </p>
+
+**Areas of Interest**
+
+Graph Neural Networks | Computer Vision | Feature Engineering | Data Preprocessing | LLM Integration
 
 ---
 
@@ -42,23 +51,43 @@ Computer Science postgraduate with an interest in software development, artifici
 
 **[PitStop F1](https://pitstop-f1.vercel.app/)**
 
-An F1-focused web application developed to explore and present Formula 1-related information.
+*React, Vite, Node.js, Express, MongoDB, Mongoose, Recharts*
+
+An all-in-one Formula 1 platform bringing race information, analytics, replays, news, and community features into a unified experience.
+
+- Developed backend API services and integrated OpenF1 and Ergast APIs.
+- Aggregated F1 content from multiple open-source platforms.
+- Attracted **48K+ visitors and 72K+ page views** between May and October 2026.
 
 **TissEX – Tissue Expression-Driven Drug Effect & ADR Knowledge Graph**
 
-A biomedical heterogeneous knowledge graph integrating drug targets, protein interactions, tissue expression, and adverse drug reactions for tissue-aware ADR prediction and explainability.
+*Python, PyTorch, PyTorch Geometric, HGT, FastAPI, React, Node.js*
+
+A biomedical heterogeneous knowledge graph framework for tissue-specific drug toxicity prediction using Heterogeneous Graph Transformers (HGT).
+
+- Integrated biomedical datasets from ChEMBL, STITCH, GTEx, STRING, and SIDER.
+- Constructed a heterogeneous graph connecting drugs, proteins, tissues, and adverse drug reactions.
+- Developed an HGT-based deep learning model to capture complex relationships across different biomedical entity types.
+- Explored tissue-aware ADR prediction and explainable AI for identifying potential drug toxicity mechanisms.
 
 **FaceTheBeat**
 
-An emotion recognition-based project exploring the connection between facial expressions and music recommendations.
+*React, Node.js, Vite, face-api.js, TensorFlow.js*
 
-**ReflexLab**
+An emotion-aware music discovery application that uses real-time facial expression analysis to recommend Malayalam music.
 
-An interactive application for exploring reaction time and reflex performance.
+- Implemented client-side facial emotion detection.
+- Processed webcam input locally without storing or transmitting visual data.
 
-**Sorting Visualizer**
+**SortViz – Sorting Algorithm Visualizer**
 
-An interactive visualization of sorting algorithms and their execution processes.
+*React, Node.js, Vite*
+
+An interactive sorting algorithm visualization platform featuring seven sorting algorithms.
+
+- Implemented Quick, Merge, Heap, Counting, Bubble, Selection, and Insertion Sort.
+- Developed algorithm comparisons, performance metrics, and animation controls.
+- Optimized rendering using React.memo and custom hooks.
 
 ---
 
